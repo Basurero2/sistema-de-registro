@@ -4,4 +4,6 @@
 
 Para ejecutar el sistema, debes poner:
 
+actualiza el readme
+
 ```npm install react```
